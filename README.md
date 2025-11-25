@@ -12,12 +12,12 @@
 
 **AI-powered cybersecurity platform with 95%+ accuracy**
 
-[Demo](cybershield-platform-git-main-sanjays-projects-f79e305d.vercel.app) • [Documentation](ml_training/docs/MODELS.md) 
+[Demo](https://cybershield-platform.vercel.app/) • [Documentation](ml_training/docs/MODELS.md) 
 
 </div>
 
 ## Deployment Link 
-[Click Me](https://cyberml-platform.vercel.app)
+[Click Me](https://cybershield-platform.vercel.app/)
 
 ## 🌟 Features
 
@@ -142,4 +142,5 @@ MIT License - see [LICENSE](LICENSE)
 - scikit-learn Contributors
 - FastAPI Framework
 - React Community
+
 
