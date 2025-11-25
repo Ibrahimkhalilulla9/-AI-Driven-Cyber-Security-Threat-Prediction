@@ -53,8 +53,8 @@
 ### Installation
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/cybershield-platform.git
-cd cybershield-platform
+git clone https://github.com/Ibrahimkhalilulla9/-AI-Driven-Cyber-Security-Threat-Prediction.git
+cd -AI-Driven-Cyber-Security-Threat-Prediction
 
 # Setup backend
 cd backend
@@ -142,3 +142,4 @@ MIT License - see [LICENSE](LICENSE)
 - scikit-learn Contributors
 - FastAPI Framework
 - React Community
+
